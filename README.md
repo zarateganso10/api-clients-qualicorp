@@ -5,7 +5,7 @@ This project is an api to manage events like Create, Read, Update and Delete of 
 
 ## Tecnologies
 
- - To create the whole project I used [NodeJS](https://vuejs.org/)
+ - To create the whole project I used [NodeJS](https://nodejs.org/en/download/)
  - To create the api and manage routes I used the [Express](https://expressjs.com/pt-br/) framework
 
 ## URL Production
